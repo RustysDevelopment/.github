@@ -29,7 +29,7 @@ For support & Inquiries, Join our [Discord](https://discord.gg/QmN4PZWzYB).
 - Learner Modeler
 
 ## 🔗 Links
-[![fivem](https://img.shields.io/badge/fivem-FF7139?style=for-the-badge&logo=fivem&logoColor=white)](https://github.com/RustysDevelopment)
+[![fivem](https://img.shields.io/badge/fivem-FF7139?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/rustysdevelopment/summary)
 [![github](https://img.shields.io/badge/GitHub-darkgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RustysDevelopment)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.gg/QmN4PZWzYB)
